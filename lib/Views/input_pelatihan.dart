@@ -25,6 +25,8 @@ import 'package:image_picker/image_picker.dart';
 //   }
 // }
 
+
+//awannn
 class InputPelatihan extends StatefulWidget {
   const InputPelatihan({super.key, required this.title});
   final String title;
